@@ -6,7 +6,7 @@
 ---
 
 ### 👨💻 About Me
-- 🌍 **From**: Mahdia, Tunisia
+- 🌍 **From**: siliana, Tunisia
 - 🎓 **Student** at **Higher Institute of Computer Science Mahdia** (Web Development)
 - 🌱 **Learning**: Advanced Next.js, TypeScript, and exploring AI/ML integration in web apps
 - ⚡ **Fun fact**: I automate small daily tasks with JavaScript!
