@@ -5,8 +5,8 @@
 
 ---
 
-### 👨💻 About Me
-- 🌍 **From**: siliana, Tunisia
+### 👨‍💻 About Me
+- 🌍 **From**: Siliana, Tunisia
 - 🎓 **Student** at **Higher Institute of Computer Science Mahdia** (Web Development)
 - 🌱 **Learning**: Advanced Next.js, TypeScript, and exploring AI/ML integration in web apps
 - ⚡ **Fun fact**: I automate small daily tasks with JavaScript!
@@ -27,16 +27,15 @@
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-#### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
 ---
 
-### 🔥 GitHub Stats
+### 🔥 GitHub Stats & Activity
+
+![GitHub Snake](https://github.com/medaziznasri/medaziznasri/blob/output/github-snake-dark.svg)
+
+<br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=medaziznasri&theme=dark)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medaziznasri&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
@@ -49,7 +48,7 @@
 ---
 
 ### 📫 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/med-aziz-nasri/) *(Replace with your link)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/med-aziz-nasri/)
 - 📧 **Email**: aziz.nasri@ieee.org
 
 ---
