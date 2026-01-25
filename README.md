@@ -1,59 +1,77 @@
-# 👋 Hello! I'm Mohamed Aziz Nasri
+<div align="center">
+  <img src="https://raw.githubusercontent.com/medaziznasri/medaziznasri/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 
-### 🚀 Frontend Developer & Computer Science Student
-**`MERN Stack | Next.js | AI Enthusiast`**
-
----
-
-### 👨‍💻 About Me
-- 🌍 **From**: Siliana, Tunisia
-- 🎓 **Student** at **Higher Institute of Computer Science Mahdia** (Web Development)
-- 🌱 **Learning**: Advanced Next.js, TypeScript, and exploring AI/ML integration in web apps
-- ⚡ **Fun fact**: I automate small daily tasks with JavaScript!
-
----
-
-### 🛠️ Tech Stack
-
-#### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-
-#### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+  # ⚡ Mohamed Aziz Nasri
+  ### `Senior Fullstack Engineer | TypeScript Architect | System Designer`
+  
+  <p align="center">
+    <a href="https://www.linkedin.com/in/med-aziz-nasri/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:aziz.nasri@ieee.org"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
+</div>
 
 ---
 
-### 🔥 GitHub Stats & Activity
+### 🏛️ Engineering Philosophy: "The Type-Safe Manifesto"
+> *"I treat types as documentation and schemas as the single source of truth. My goal is to build resilient systems where the compiler finds the bugs, so the users never do."*
 
-![GitHub Snake](https://github.com/medaziznasri/medaziznasri/blob/output/github-snake-dark.svg)
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=medaziznasri&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medaziznasri&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+- **End-to-End Type Safety:** Strict **TypeScript** implementation from Database (Sequelize) to API (Tsoa) to UI (TanStack).
+- **Schema-Driven Development:** Centralized validation using **Zod** shared between client and server.
+- **Developer Experience (DX):** Automated quality gates with **Husky**, **ESLint**, and **Prettier**.
 
 ---
 
-### 🧠 AI Interests
-- Exploring TensorFlow.js for browser-based ML models
-- Building smart UI components with AI predictions
-- Learning about NLP applications in web development
+### 🛠️ The 2026 Tech Stack
+
+<div align="center">
+
+| Layer | Technologies |
+| :--- | :--- |
+| **Core** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| **State & Data** | `Redux Toolkit`, `TanStack Query (v5)`, `Sequelize ORM`, `Postgres` |
+| **Architecture** | `Tsoa (TypeScript OpenAPI)`, `Swagger`, `MVC`, `Microservices` |
+| **UI/UX** | `Shadcn UI`, `Tailwind CSS`, `Framer Motion`, `Lucide Icons` |
+| **Safety** | `Zod (Validation)`, `React Hook Form`, `Husky (Git Hooks)` |
+| **Backend** | `Node.js`, `Express.js`, `REST APIs`, `JWT Auth` |
+
+</div>
 
 ---
 
-### 📫 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/med-aziz-nasri/)
-- 📧 **Email**: aziz.nasri@ieee.org
+### ⚙️ System Design Workflow
+I follow a disciplined development lifecycle to ensure high-performance applications:
+
+1.  **Schema Definition:** Defining **Zod** schemas for runtime validation.
+2.  **API Contract:** Building controllers with **Tsoa** to auto-generate **Swagger** documentation and TypeScript interfaces.
+3.  **Data Persistence:** Designing optimized relational models in **Postgres** via **Sequelize**.
+4.  **UI Implementation:** Composing atomic components with **Shadcn UI** and managing async state with **TanStack Query**.
+
+
 
 ---
 
-### 🎯 Current Goals
-- Building a full-stack Next.js 14 app with TypeScript
-- Contributing to open-source AI projects
-- Mastering advanced React patterns
+### 🔥 GitHub Performance & Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=medaziznasri&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" alt="Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medaziznasri&layout=compact&theme=tokyonight" alt="Langs" />
+</div>
+
+---
+
+### 🛡️ Quality & Tooling
+- 🏗️ **Husky:** Enforcing linting and type-checks before every commit.
+- 📦 **Vite:** High-speed development and optimized bundling.
+- 🧪 **Tsoa:** Ensuring the API always matches the documentation.
+
+---
+
+### 🤝 Connect & Collaborate
+- 🌍 **Based in:** Siliana/Mahdia, Tunisia
+- 🎓 **Academic:** Higher Institute of Computer Science Mahdia (ISIM)
+- 🚀 **Latest Obsession:** Optimizing Next.js Server Components with AI-driven content.
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=medaziznasri&color=8940ff&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
+</div>
