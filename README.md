@@ -1,70 +1,128 @@
-
-
-  # ⚡ Mohamed Aziz Nasri
-  ### `Software Architect | Fullstack Engineer | TypeScript Specialist`
-
-<div align="center">
-    <img src="https://raw.githubusercontent.com/medaziznasri/medaziznasri/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" />
-
-
-
-  <p align="center">
-    <a href="https://www.linkedin.com/in/med-aziz-nasri/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:aziz.nasri@ieee.org"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  </p>
-</div>
-
----
-
-### 🏛️ Engineering Philosophy
-> *"Building scalable systems through strict type-safety, modular design, and automated workflows. I specialize in bridging the gap between robust backend architecture and fluid frontend experiences."*
-
-- **Type-Safe Ecosystem:** Utilizing **TypeScript**, **Zod**, and **Tsoa** for end-to-end reliability.
-- **Architectural Patterns:** Implementation of **MVC**, **SOLID principles**, and **System Design** best practices.
-- **Performance First:** Optimized data fetching via **TanStack Query** and **Sequelize ORM**.
-
----
-
-### 🛠️ Tech Stack & Tooling
+<!--
+Profile README for: https://github.com/medaziznasri
+Tip: Keep it fast + scannable. Proof > buzzwords.
+-->
 
 <div align="center">
 
-| Layer | Stack |
-| :--- | :--- |
-| **Frontend** | `React + Vite`, `Next.js 14`, `Redux Toolkit`, `TanStack Query (v5)` |
-| **UI/UX** | `Shadcn UI`, `Tailwind CSS`, `Framer Motion`, `Lucide` |
-| **Backend** | `Node.js`, `Express.js`, `Tsoa (OpenAPI)`, `Swagger` |
-| **Database** | `PostgreSQL`, `Sequelize ORM`, `MongoDB`, `Redis` |
-| **DevOps** | `Husky`, `GitHub Actions`, `Docker`, `Zod + RHF` |
+# ⚡ Mohamed Aziz Nasri
+### Software Architect · Fullstack Engineer · TypeScript Specialist
+
+<p>
+  <a href="https://www.linkedin.com/in/med-aziz-nasri/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-med--aziz--nasri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:aziz.nasri@ieee.org">
+    <img src="https://img.shields.io/badge/Email-aziz.nasri%40ieee.org-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/medaziznasri?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-GitHub-111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=900&color=8A2BE2&center=true&vCenter=true&width=760&lines=I+design+type-safe+systems+that+scale.;Contracts-first+APIs+%E2%86%92+fewer+bugs+in+prod.;Clean+architecture+%7C+Fast+DX+%7C+Automated+quality+gates." alt="Typing SVG" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/medaziznasri/medaziznasri/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" width="95%" />
 
 </div>
 
 ---
 
-### 🧠 System Design Focus
-- **API Contracts:** Auto-generating Swagger docs with **Tsoa** for seamless Frontend/Backend sync.
-- **Form Integrity:** Bulletproof validation layers using **Zod** and **React Hook Form**.
-- **Data Persistence:** Relational database modeling and optimization with **Postgres**.
-- **Git Flow:** Enforcing code quality with **Husky** pre-commit hooks and linting.
+## 🧭 What I actually do (no fluff)
+I build **type-safe, production-grade web systems** where backend and frontend stay aligned through **contracts**, not hope.
+
+- **Contracts-first APIs** (OpenAPI via TSOA/Swagger) → predictable integration, fewer regressions  
+- **Strict validation** (Zod) at boundaries → your database stops being the validator  
+- **Scalable architecture** → modular services, clean layers, stable interfaces  
+- **Performance discipline** → caching, query efficiency, and measured bottlenecks
+
+> **Engineering philosophy:** *Ship fast, but never ship chaos.*
 
 ---
 
-### 🔥 GitHub Performance
+## 🧱 Current focus
+- Designing **MERN/TypeScript** systems with strong boundaries
+- Automating quality gates with **CI/CD**
+- Exploring **AI-assisted workflows** where it actually adds value (not gimmicks)
 
+---
+
+## 🧰 Stack (battle-tested)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=medaziznasri&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" alt="Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medaziznasri&layout=compact&theme=tokyonight" alt="Langs" />
+
+| Domain | Tools |
+|---|---|
+| **Frontend** | React, Vite, Next.js, Redux Toolkit, TanStack Query |
+| **UI/UX** | Tailwind CSS, shadcn/ui, Framer Motion, Lucide |
+| **Backend** | Node.js, Express, TSOA (OpenAPI), Swagger |
+| **Data** | PostgreSQL, Sequelize, MongoDB, Redis |
+| **DevOps / DX** | Docker, GitHub Actions, Husky, Lint/Format gates |
+
 </div>
 
 ---
 
-### 🤝 Let's Architect Something Great
-- 🌍 Located in **Siliana, Tunisia**
-- 🎓 Student at **Higher Institute of Computer Science Mahdia (ISIM)**
-- 🚀 Currently: Engineering complex MERN systems and exploring AI integration.
+## 🧠 Architecture principles I enforce
+- **Single Source of Truth:** schemas/contracts generate docs + types
+- **Boundaries > cleverness:** clear layers, explicit dependencies
+- **Observability from day 1:** logs, metrics, error tracing (when applicable)
+- **Repeatable builds:** Docker + CI workflows so “works on my machine” dies
+
+---
+
+## 📌 Featured work (replace these with your real best repos)
+<div align="center">
+
+<a href="https://github.com/medaziznasri?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=medaziznasri&repo=REPLACE_WITH_REPO_1&theme=tokyonight" />
+</a>
+<a href="https://github.com/medaziznasri?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=medaziznasri&repo=REPLACE_WITH_REPO_2&theme=tokyonight" />
+</a>
+
+</div>
+
+> If you don’t have 2–4 repos you’re proud of, your README won’t save you. Build the proof.
+
+---
+
+## 📈 GitHub by the numbers
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=medaziznasri&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=medaziznasri&theme=tokyonight" height="165" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medaziznasri&layout=compact&theme=tokyonight" height="165" />
+
+</div>
+
+---
+
+## 🧪 Now (quick facts)
+- 🌍 Tunisia (Siliana)
+- 🎓 Higher Institute of Computer Science Mahdia (ISIM)
+- 🤝 Open to: internships, serious freelance, collaborations on real systems
+
+---
+
+## 📬 Contact
+- LinkedIn: https://www.linkedin.com/in/med-aziz-nasri/
+- Email: aziz.nasri@ieee.org
 
 <div align="center">
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=medaziznasri&color=8940ff&style=flat-square&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=medaziznasri&style=for-the-badge&label=Profile+Views" alt="Profile views" />
 </div>
+
+---
+
+## 🔧 README components used (docs / sources)
+- Shields.io badges: https://shields.io/
+- GitHub Readme Stats: https://github.com/anuraghazra/github-readme-stats
+- GitHub Streak Stats: https://github.com/DenverCoder1/github-readme-streak-stats
+- Typing SVG: https://github.com/DenverCoder1/readme-typing-svg
+- Contribution Snake: https://github.com/Platane/snk
+- Profile views badge: https://github.com/antonkomarev/github-profile-views-counter
