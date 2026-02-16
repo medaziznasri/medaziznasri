@@ -72,21 +72,7 @@ I build **type-safe, production-grade web systems** where backend and frontend s
 
 ---
 
-## 📌 Featured work (replace these with your real best repos)
-<div align="center">
 
-<a href="https://github.com/medaziznasri?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=medaziznasri&repo=REPLACE_WITH_REPO_1&theme=tokyonight" />
-</a>
-<a href="https://github.com/medaziznasri?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=medaziznasri&repo=REPLACE_WITH_REPO_2&theme=tokyonight" />
-</a>
-
-</div>
-
-> If you don’t have 2–4 repos you’re proud of, your README won’t save you. Build the proof.
-
----
 
 ## 📈 GitHub by the numbers
 <div align="center">
