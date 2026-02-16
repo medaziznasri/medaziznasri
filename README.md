@@ -77,12 +77,9 @@ I build **type-safe, production-grade web systems** where backend and frontend s
 ## 📈 GitHub by the numbers
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=medaziznasri&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=medaziznasri&theme=tokyonight" height="165" />
 
-<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medaziznasri&layout=compact&theme=tokyonight" height="165" />
 
 </div>
 
